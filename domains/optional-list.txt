@@ -26,55 +26,6 @@ us-east-1.amazonaws.com
 # Amazon AWS (???) - whitelist to make Kryptonite work
 sqs.us-east-1.amazonaws.com
 
-# Bild.de
-acdn.adnxs.com
-cdn1.smartadserver.com
-ec-ns.sascdn.com
-
-# DirectTV Now
-js.maxmind.com
-directvnow.com
-directvapplications.hb.omtrdc.net
-s.zkcdn.net
-
-# Facebook
-creative.ak.fbcdn.net
-external-lhr0-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
-external-lhr1-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
-external-lhr3-1.xx.fbcdn.net
-external-lhr4-1.xx.fbcdn.net
-external-lhr5-1.xx.fbcdn.net
-external-lhr6-1.xx.fbcdn.net
-external-lhr7-1.xx.fbcdn.net
-external-lhr8-1.xx.fbcdn.net
-external-lhr9-1.xx.fbcdn.net
-fbcdn-creative-a.akamaihd.net
-graph.facebook.com
-graph.instagram.com
-instagram.c10r.facebook.com
-scontent-lhr3-1.xx.fbcdn.net
-scontent.xx.fbcdn.net
-scontent.fgdl5-1.fna.fbcdn.net
-facebook.com
-facebook.net
-fbcdn.net
-cdn.fbsbx.com
-edge-mqtt.facebook.com
-0-edge-chat.facebook.com
-1-edge-chat.facebook.com
-2-edge-chat.facebook.com
-3-edge-chat.facebook.com
-4-edge-chat.facebook.com
-5-edge-chat.facebook.com
-6-edge-chat.facebook.com
-edge-chat.facebook.com
-mqtt-mini.facebook.com
-
-# Fix - Images not loading on www.thecut.com
-pixel.nymag.com
-
 # GeForce Experience
 events.gfe.nvidia.com
 gfwsl.geforce.com
@@ -97,17 +48,6 @@ zeustracker.abuse.ch
 # Images not loading on aliexpress.com
 ae01.alicdn.com
 
-# Jackbox.tv
-www.google-analytics.com
-google-analytics.com
-ssl.google-analytics.com
-
-# Lotus talk
-lotustalk.com
-www.lotustalk.com
-
-# National Express, UK (nationalexpress.com/en) - Unable to book journey
-cdns.gigya.com
 
 # Netflix - Domains needed for netlix to work correctly
 api-global.netflix.com
@@ -118,35 +58,6 @@ secure.netflix.com
 # Nvidia updates
 ota-downloads.nvidia.com
 
-# Openload - media serving site
-openload.co
-www.openload.co
-
-# Pluto.tv
-images.pluto.tv
-stitcher.pluto.tv
-siloh.pluto.tv
-silo.pluto.tv
-cdn-mobile.api.pluto.tv
-api.pluto.tv
-players.pluto.tv
-
-# Roku HGTV app: Failed to play previous episodes
-dcs-vod.apis.anvato.net
-
-# Roku TNT app: Failed to play videos
-z.cdn.turner.com
-manifest.auditude.com
-
-# Refersion.com (affiliate marketing)
-cdn.refersion.com
-refersion.com
-www.refersion.com
-
-# Roku TV CW and NBC app
-cwtv-mrss-akamai.cwtv.com
-cwtv-prod-elb.digitalsmiths.net
-redirector.googlevideo.com
 
 # Samsung TV's Amazon Prime Video app
 time.samsungcloudsolution.com
@@ -154,22 +65,6 @@ time.samsungcloudsolution.com
 # Samsung smart TV's network issue
 cdn.samsungcloudsolution.com
 
-# SBS Online videos not playing
-www.sbs.com.au
-sbs.com.au
-api.sbs.com.au
-media.sbs.com.au
-resources.sbs.com.au
-videocdn-sbs.akamaized.net
-sbsvodns-vh.akamaihd.net
-link.theplatform.com
-e7065.e2.akamaiedge.net
-a463.w10.akamai.net
-a790.w16.akamai.net
-
-# Share buttons on websites
-dsms0mj1bbhn4.cloudfront.net
-shareaholic.com
 
 # Sky Go (skygo.sky.de)
 assets.adobedtm.com
@@ -183,14 +78,6 @@ market.spotify.com
 spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
 
-# Target's Weekly Ads
-weeklyad.target.com
-m.weeklyad.target.com
-weeklyad.target.com.edgesuite.net
-
-# UK University application website
-# https://github.com/anudeepND/whitelist/issues/30
-track.ucas.com
 
 # URL shorteners
 adf.ly
@@ -207,17 +94,8 @@ amzn.com
 # Note: ads before videos may appear after whitelisting this domain
 d2c8v52ll5s99u.cloudfront.net
 
-# Videos not playing on www.jacquielawson.com
-f1.media.brightcove.com
-
-# WatchESPN
-fpdownload.adobe.com
-entitlement.auth.adobe.com
-livepassdl.conviva.com
 
 # Xbox Achievements and game stats sync
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 
-# streamelements.com (Blocked by Pi-hole regex)
-stats.streamelements.com
